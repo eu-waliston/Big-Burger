@@ -3,7 +3,7 @@
     height: 100vh;
     background-size: cover;
     background-repeat: no-repeat;
-
+    user-select: none;
     box-shadow: inset 5px 70px 45px rgba(0, 0, 0, 0.712);
 }
 
@@ -28,13 +28,13 @@
 
 .title {
     font-size: 5.5rem;
-    user-select: none;
+
 }
 
 .sub__title {
     font-size: 1.2rem;
     font-weight: 300;
-    user-select: none;
+
 }
 
 .btn--orange {

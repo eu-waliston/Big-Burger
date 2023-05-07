@@ -1,0 +1,37 @@
+.navbar {
+    position: absolute;
+    z-index: 3;
+    width: 100%;
+}
+
+.nav {
+    display: flex ;
+    justify-content: space-evenly ;
+    align-items: center;
+}
+
+.logo {
+    width: 70px;
+    position: relative;
+    padding: 10px;
+    user-select: none;
+}
+
+.nav__iten {
+    display: flex;
+    column-gap: 50px;
+}
+
+.nav__itens {
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 1.4rem;
+}
+
+.nav__itens:hover {
+    transition: .5s;
+    color: orangered;
+    cursor: pointer;
+}
