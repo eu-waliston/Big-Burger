@@ -1,6 +1,6 @@
 # Big Burger App
 
-### A hamburger website using React JS, Styled Components and REact Icons
+### A hamburger website using React JS, Styled Components and Raact Icons
 
 #### Design:
 
