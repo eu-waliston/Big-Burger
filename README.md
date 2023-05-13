@@ -1,6 +1,6 @@
 # Big Burger App
 
-### A hamburger website using React JS
+### A hamburger website using React JS, Styled Components and Raact Icons
 
 #### Design:
 
@@ -8,3 +8,6 @@
 
 #### By:  
   - [Freepik](https://br.freepik.com/)
+
+### App:
+  - https://big-burger-eight.vercel.app/
