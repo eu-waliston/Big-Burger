@@ -1,5 +1,5 @@
 .navbar {
-    position: absolute;
+    position: fixed;
     z-index: 3;
     width: 100%;
 }
@@ -34,4 +34,8 @@
     transition: .5s;
     color: orangered;
     cursor: pointer;
+}
+
+.active {
+    color: orangered;
 }
