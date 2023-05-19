@@ -5,6 +5,12 @@
   color: #e9764e;
 }
 
+.statistics {
+    width: 100%;
+    height: 100vh;
+    background-color: #e9764e;
+}
+
 .our--chefs {
   display: grid;
   text-align: center;
