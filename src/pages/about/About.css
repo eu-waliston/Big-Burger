@@ -1,5 +1,74 @@
 .about_us {
-    width: 100%;
-    height: 100vh;
-    background-color: #120F10;
+  width: 100%;
+  height: 100vh;
+  background-color: #20201f;
+  color: #e9764e;
+}
+
+.our--chefs {
+  display: grid;
+  text-align: center;
+}
+
+.img--chef {
+  width: 100%;
+  max-width: 250px;
+  border-radius: 100px;
+}
+
+.our__chefs__grid {
+  display: flex;
+  justify-content: space-evenly;
+  position: relative;
+  top: 50%;
+  text-transform: capitalize;
+}
+
+.info--top h1 {
+  font-size: 5rem;
+  text-transform: capitalize;
+}
+
+.info--top p {
+  font-size: 1.3rem;
+}
+
+/* icons */
+.icon-5 {
+  position: relative;
+  width: 70px;
+  float: right;
+  top: 30%;
+}
+.icon-4 {
+  position: relative;
+  width: 70px;
+  top: 30%;
+  left: 45px;
+}
+.icon-3 {
+  position: relative;
+  width: 70px;
+  top: 10%;
+  left: 190px;
+}
+
+.icon-1 {
+  position: relative;
+  width: 70px;
+  top: 20%;
+  left: 30%;
+}
+.icon-2 {
+  position: relative;
+  width: 70px;
+  left: 10px;
+  top: 25%;
+}
+.icon-6 {
+  position: relative;
+  width: 70px;
+  float: right;
+  margin-right: 150px;
+  top: 20%;
 }

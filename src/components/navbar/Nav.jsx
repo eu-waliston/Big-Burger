@@ -8,7 +8,10 @@ const Nav = () => {
     return (
         <div className="navbar">
             <div className="nav">
-                <img src={require("../../components/img/Icon.png")} alt="logo" className="logo" />
+                <div className="logo--section">
+                    <img src={require("../../components/img/iten-1.png")} alt="logo" className="logo" />
+                    <h2>Big Burger</h2>
+                </div>
 
                 <div className="nav__iten">
                     <HashLink smooth to="#home" className="nav__itens" >home</HashLink>

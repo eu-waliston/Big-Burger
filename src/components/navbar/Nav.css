@@ -23,7 +23,7 @@
 }
 
 .nav__itens {
-    color: #fff;
+    color:#e9764e;
     text-decoration: none;
     text-transform: uppercase;
     font-weight: 400;
@@ -32,10 +32,23 @@
 
 .nav__itens:hover {
     transition: .5s;
-    color: orangered;
+    color: rgb(255, 255, 255);
     cursor: pointer;
+    font-weight: 800;
 }
 
 .active {
-    color: orangered;
+    color: rgb(255, 255, 255);
+}
+
+.logo--section {
+    display: flex;
+}
+
+.logo--section h2 {
+    color:#e9764e;
+    position: relative;
+    top: 25px;
+    font-weight: 500;
+    text-transform: uppercase;
 }
