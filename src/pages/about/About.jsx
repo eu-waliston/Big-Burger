@@ -41,7 +41,24 @@ const About = () => {
                 <img src={require("../../components/img/iten-2.png")} className="icon-2" alt="icon" />
             </div>
             <div className="statistics">
-                
+                <div className="stats">
+                    <h1>Statistics</h1>
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. <br /> Nulla inventore suscipit aliquid numquam saepe dolorem quia vero dolor</p>
+                </div>
+                <div className="statistics--itens">
+                    <div className="statistics--iten" >
+                        <h1>7k</h1>
+                        <h3>customers</h3>
+                    </div>
+                    <div className="statistics--iten" >
+                        <h1>109</h1>
+                        <h3>outlets</h3>
+                    </div>
+                    <div className="statistics--iten" >
+                        <h1>35</h1>
+                        <h3>country</h3>
+                    </div>
+                </div>
             </div>
         </>
 
