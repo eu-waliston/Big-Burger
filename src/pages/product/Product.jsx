@@ -13,32 +13,32 @@ const Product = () => {
             <div className="products">
                 <div className="product">
                     <h1 className="p-name">Product I</h1>
-                    <img src={require("../../components/img/Icon.png")} alt="burger" className="p-image" />
+                    <div><img src={require("../../components/img/Icon.png")} alt="burger" className="p-image" /></div>
                     <h3 className="p-price">$20.00</h3>
                     <p className="p-info">Lorem ipsum dolor sit amet consectetur adipisicing elit</p>
-                    <button className="p-order">order now</button>
+                    <div><button className="p-order">order now</button></div>
                 </div>
 
                 <div className="product">
                     <h1 className="p-name">Product II</h1>
-                    <img src={require("../../components/img/Icon.png")} alt="burger" className="p-image" />
+                    <div><img src={require("../../components/img/Icon.png")} alt="burger" className="p-image" /></div>
                     <h3 className="p-price">$20.00</h3>
                     <p className="p-info">Lorem ipsum dolor sit amet consectetur adipisicing elit</p>
-                    <button className="p-order">order now</button>
+                    <div><button className="p-order">order now</button></div>
                 </div>
 
                 <div className="product">
                     <h1 className="p-name">Product III</h1>
-                    <img src={require("../../components/img/Icon.png")} alt="burger" className="p-image" />
+                    <div><img src={require("../../components/img/Icon.png")} alt="burger" className="p-image" /></div>
                     <h3 className="p-price">$20.00</h3>
                     <p className="p-info">Lorem ipsum dolor sit amet consectetur adipisicing elit</p>
-                    <button className="p-order">order now</button>
+                    <div><button className="p-order">order now</button></div>
                 </div>
             </div>
 
 
             <img src={require("../../components/img/iten-1.png")} alt="icon" className="back-icon-p1" />
-            <img src={require("../../components/img/iten-5.png")} alt="icon" className="back-icon-p5" />
+            <img src={require("../../components/img/iten-5.png")} alt="icon" className="back-icon-p5-2" />
             <img src={require("../../components/img/iten-4.png")} alt="icon" className="back-icon-p4" />
 
         </div>
