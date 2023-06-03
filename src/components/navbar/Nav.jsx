@@ -16,7 +16,7 @@ const Nav = () => {
                 <div className="nav__iten">
                     <HashLink smooth to="#home" className="nav__itens" >home</HashLink>
                     <HashLink smooth to="#product" className="nav__itens" >product </HashLink>
-                    <HashLink smooth to="#promo" className="nav__itens" >promo</HashLink>
+                    <HashLink smooth to="#best-burger" className="nav__itens" >best burger</HashLink>
                     <HashLink smooth to="#about" className="nav__itens" >about</HashLink>
                     <HashLink smooth to="#contact" className="nav__itens" >contact</HashLink>
                 </div>
