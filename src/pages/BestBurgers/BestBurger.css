@@ -1,6 +1,95 @@
 .bestburger--section {
-    width: 100%;
-    height: 100vh;
-    background-color: #E84002;
+  width: 100%;
+  height: 100vh;
+  background-color: #2b2b2b;
+}
+
+.best-burger-1 {
+  background-color: #ff4500;
+  width: 100%;
+  height: 100vh;
+
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.best-burger-2 {
+  background-color: #2b2b2b;
+  width: 100%;
+  height: 100vh;
+
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.left-content {
+  float: left;
+}
+
+.left-content img {
+  width: 450px;
+  border-radius: 100%;
+}
+
+.right-content {
+  float: right;
+}
+
+.right-content h1 {
+  font-size: 4rem;
+  color: #fff;
+}
+
+.right-content p {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: #fff;
+  font-size: 1.2rem;
+}
+
+.right-content button {
+  width: 240px;
+  height: 60px;
+  text-transform: uppercase;
+  font-size: 1.2rem;
+  border-radius: 20px;
+  border: none;
+  color: #ff4500;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+.best-burger-2 .right-content button {
+  background-color: #ff4500;
+  color: #fff;
+}
+
+
+.back-icon-p3-3{
+    position: relative;
+}
+.back-icon-p5-5{
+    position: relative;
+
+}
+.back-icon-p2-2{
+    position: relative;
+
+}
+
+
+.back-icon-p1-1{
+    position: relative;
+
+}
+.back-icon-p2-2{
+    position: relative;
+
+}
+.back-icon-p4-4{
+    position: relative;
+
 }
 
