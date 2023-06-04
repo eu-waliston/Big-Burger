@@ -66,30 +66,26 @@
   color: #fff;
 }
 
-
-.back-icon-p3-3{
-    position: relative;
+.back-icon-p3-3 {
+  position: relative;
 }
-.back-icon-p5-5{
-    position: relative;
-
+.back-icon-p5-5 {
+  position: relative;
 }
-.back-icon-p2-2{
-    position: relative;
-
+.back-icon-p2-2 {
+  position: relative;
 }
 
-
-.back-icon-p1-1{
-    position: relative;
-
+.back-icon-p1-1 {
+  position: relative;
 }
-.back-icon-p2-2{
-    position: relative;
-
+.back-icon-p2-2 {
+  position: relative;
 }
-.back-icon-p4-4{
-    position: relative;
-
+.back-icon-p4-4 {
+  position: relative;
 }
 
+button {
+  cursor: pointer;
+}
