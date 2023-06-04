@@ -4,6 +4,8 @@ import "./App.css";
 import Home from "./pages/home/Home";
 import About from "./pages/about/About";
 import Product from "./pages/product/Product";
+import BestBurger from "./pages/BestBurgers/BestBurger";
+
 
 
 
@@ -13,6 +15,7 @@ const App = () => {
       <Home />    
       <About />
       <Product />
+      <BestBurger />
     </>
   )
 }
